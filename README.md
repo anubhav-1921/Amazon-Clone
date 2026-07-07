@@ -28,7 +28,7 @@ A responsive Amazon homepage clone built using **HTML5** and **CSS3**. This proj
 
 ---
 
-## 📸 Screenshot
+## 🖼️ Preview
 
 ![Amazon Clone](Screenshot%202026-07-08%20001744.png)
 
